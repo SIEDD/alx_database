@@ -1,2 +1,2 @@
---script that lists all databases.
-SHOW DATABASES;
+--script to show databases.
+SHOW databases;
